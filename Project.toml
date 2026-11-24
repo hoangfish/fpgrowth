@@ -1,0 +1,6 @@
+name = "FPGrowthFIM"
+uuid = "708d939d-e5b1-4321-a31d-15eafc55284b"
+version = "0.1.0"
+
+[compat]
+julia = "1.9"

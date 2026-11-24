@@ -1,0 +1,10 @@
+# dữ liệu tải về (bản lớn host riêng / tải bằng scripts/download_*.py)
+data/benchmark/*.txt
+data/apps/
+data/spmf_expected/
+spmf.jar
+# file tạm
+*.part
+__pycache__/
+.ipynb_checkpoints/
+out.txt
