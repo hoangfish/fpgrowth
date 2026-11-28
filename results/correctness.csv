@@ -1,0 +1,13 @@
+dataset,minsup,n_basic,n_opt,basic_eq_opt,n_spmf,match_vs_spmf,match_rate_vs_spmf
+chess,0.95,77,77,true,77,true,1.0
+chess,0.85,2669,2669,true,2669,true,1.0
+chess,0.75,20993,20993,true,20993,true,1.0
+mushroom,0.5,163,163,true,163,true,1.0
+mushroom,0.3,2587,2587,true,2587,true,1.0
+mushroom,0.2,53337,53337,true,53337,true,1.0
+retail,0.02,55,55,true,55,true,1.0
+retail,0.005,580,580,true,580,true,1.0
+retail,0.002,2691,2691,true,2691,true,1.0
+T10I4D100K,0.02,155,155,true,155,true,1.0
+T10I4D100K,0.005,1073,1073,true,1073,true,1.0
+T10I4D100K,0.002,13255,13255,true,13255,true,1.0

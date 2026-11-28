@@ -1,0 +1,11 @@
+antecedent,consequent,count,support,confidence,lift,leverage,conviction
+"{tropical fruit | root vegetables}","{yogurt | whole milk}",56,0.005694,0.2705,4.8288,0.004515,1.2941
+"{pip fruit | root vegetables}","{whole milk | other vegetables}",54,0.005491,0.3529,4.7163,0.004326,1.4298
+"{tropical fruit | root vegetables}","{whole milk | other vegetables}",69,0.007016,0.3333,4.4543,0.005441,1.3877
+"{citrus fruit | root vegetables}","{whole milk | other vegetables}",57,0.005796,0.3276,4.3775,0.004472,1.3759
+"{root vegetables | whipped/sour cream}","{whole milk | other vegetables}",51,0.005186,0.3036,4.0566,0.003907,1.3284
+"{yogurt | root vegetables}","{whole milk | other vegetables}",77,0.007829,0.3031,4.0509,0.005896,1.3276
+"{other vegetables | butter}","{whipped/sour cream}",57,0.005796,0.2893,4.0364,0.004360,1.3063
+"{herbs}","{root vegetables}",69,0.007016,0.4313,3.9565,0.005243,1.5666
+"{citrus fruit | pip fruit}","{tropical fruit}",55,0.005592,0.4044,3.8541,0.004141,1.5028
+"{berries}","{whipped/sour cream}",89,0.009049,0.2722,3.7969,0.006666,1.2755
